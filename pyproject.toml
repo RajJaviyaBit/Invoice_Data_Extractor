@@ -1,0 +1,20 @@
+[project]
+name = "pdf-process"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.116.1",
+    "groq>=0.31.0",
+    "levenshtein>=0.27.1",
+    "pdf2image>=1.17.0",
+    "pyjwt>=2.10.1",
+    "pypng>=0.20220715.0",
+    "pyzbar>=0.1.9",
+    "qrcode>=8.2",
+    "qreader>=3.16",
+    "qrtools>=0.0.2",
+    "regex>=2025.7.34",
+]

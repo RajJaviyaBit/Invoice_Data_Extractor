@@ -1,0 +1,271 @@
+02/09/2025 11:48:00 AM - mylogger - ERROR - Error:- array() got an unexpected keyword argument 'fmt' ocurred while extracting data from Payout14851-Nov-2024-655.pdf.
+02/09/2025 11:49:00 AM - mylogger - ERROR - Error:- module 'qreader' has no attribute 'detect_and_decode' ocurred while extracting data from Payout14851-Nov-2024-655.pdf.
+02/09/2025 11:51:04 AM - mylogger - INFO - Data Extracted from Payout14851-Nov-2024-655.pdf. Time and Token CompletionUsage(completion_tokens=600, prompt_tokens=3257, total_tokens=3857, completion_time=1.402451914, prompt_time=0.07632052, queue_time=0.217376529, total_time=1.4787724340000001)
+02/09/2025 11:51:05 AM - mylogger - INFO - ['igst_amount', 'micr_code'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=17, prompt_tokens=2627, total_tokens=2644, completion_time=0.050818468, prompt_time=0.072357222, queue_time=0.219512637, total_time=0.12317569)
+02/09/2025 11:52:12 AM - mylogger - INFO - Data Extracted from Payout13169-Aug-2024-655.pdf. Time and Token CompletionUsage(completion_tokens=638, prompt_tokens=3257, total_tokens=3895, completion_time=1.524095258, prompt_time=0.085434695, queue_time=1.138031351, total_time=1.609529953)
+02/09/2025 11:52:14 AM - mylogger - INFO - ['igst_amount', 'micr_code'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2627, total_tokens=2646, completion_time=0.058905243, prompt_time=0.073142901, queue_time=2.220419335, total_time=0.132048144)
+02/09/2025 11:52:42 AM - mylogger - INFO - Data Extracted from Payout14887-Nov-2024-707.pdf. Time and Token CompletionUsage(completion_tokens=584, prompt_tokens=3402, total_tokens=3986, completion_time=1.4704400309999999, prompt_time=0.078486739, queue_time=0.20939525, total_time=1.54892677)
+02/09/2025 11:53:01 AM - mylogger - INFO - ['cgst_amount', 'sgst_utgst_amount'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=18, prompt_tokens=2775, total_tokens=2793, completion_time=0.062711639, prompt_time=0.057481397, queue_time=0.208947682, total_time=0.120193036)
+02/09/2025 11:53:36 AM - mylogger - INFO - Data Extracted from Payout14531-Nov-2024-117.pdf. Time and Token CompletionUsage(completion_tokens=579, prompt_tokens=3257, total_tokens=3836, completion_time=1.407620324, prompt_time=0.10680287, queue_time=0.271582978, total_time=1.514423194)
+02/09/2025 11:54:07 AM - mylogger - INFO - ['hiib_gstin'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2624, total_tokens=2643, completion_time=0.093176839, prompt_time=0.058568112, queue_time=0.266984107, total_time=0.151744951)
+02/09/2025 11:54:41 AM - mylogger - INFO - Data Extracted from Payout14973-Nov-2024-3022.pdf. Time and Token CompletionUsage(completion_tokens=572, prompt_tokens=3257, total_tokens=3829, completion_time=1.323368606, prompt_time=0.093280715, queue_time=1.097299689, total_time=1.416649321)
+02/09/2025 11:55:12 AM - mylogger - INFO - ['cgst_amount', 'sgst_utgst_amount', 'micr_code', 'quantity'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=35, prompt_tokens=2638, total_tokens=2673, completion_time=0.061390376, prompt_time=0.08424605, queue_time=0.211431048, total_time=0.145636426)
+02/09/2025 11:55:59 AM - mylogger - INFO - Data Extracted from Payout14646-Nov-2024-316.pdf. Time and Token CompletionUsage(completion_tokens=573, prompt_tokens=3257, total_tokens=3830, completion_time=1.337530039, prompt_time=0.082221285, queue_time=0.207373884, total_time=1.419751324)
+02/09/2025 11:56:16 AM - mylogger - INFO - ['dealer_gstin'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=18, prompt_tokens=2623, total_tokens=2641, completion_time=0.050894009, prompt_time=0.107986522, queue_time=0.214579747, total_time=0.158880531)
+02/09/2025 12:11:44 PM - mylogger - INFO - Data Extracted from Payout8998-Jan-2024-130.pdf. Time and Token CompletionUsage(completion_tokens=547, prompt_tokens=3257, total_tokens=3804, completion_time=1.266959083, prompt_time=0.081652619, queue_time=0.20061866, total_time=1.348611702)
+02/09/2025 12:11:44 PM - mylogger - INFO - ['cgst_amount', 'sgst_utgst_amount', 'micr_code', 'quantity'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=30, prompt_tokens=2638, total_tokens=2668, completion_time=0.065438889, prompt_time=0.055121367, queue_time=0.201168903, total_time=0.120560256)
+02/09/2025 12:21:48 PM - mylogger - INFO - Data Extracted from Payout13710-Sep-2024-627.pdf. Time and Token CompletionUsage(completion_tokens=513, prompt_tokens=3402, total_tokens=3915, completion_time=1.367578953, prompt_time=0.08486376, queue_time=0.201335029, total_time=1.452442713) 
+ ['micr_code'] fields are invalid.
+02/09/2025 12:21:49 PM - mylogger - INFO - ['micr_code'] are Extracted from image as it was null in first attempt. Time and Token used CompletionUsage(completion_tokens=8, prompt_tokens=2767, total_tokens=2775, completion_time=0.05495219, prompt_time=0.057936455, queue_time=0.199402744, total_time=0.112888645)
+02/09/2025 12:23:49 PM - mylogger - INFO - Data Extracted from Payout13710-Sep-2024-627.pdf. Time and Token CompletionUsage(completion_tokens=586, prompt_tokens=3402, total_tokens=3988, completion_time=1.474467255, prompt_time=0.837073692, queue_time=1.057031982, total_time=2.311540947) 
+ [] fields are invalid.
+02/09/2025 12:23:49 PM - mylogger - INFO - [] are Extracted from image as it was null in first attempt. Time and Token used LLM does not call
+02/09/2025 12:32:29 PM - mylogger - INFO - Data Extracted from Payout8998-Jan-2024-130.pdf. Time and Token CompletionUsage(completion_tokens=549, prompt_tokens=3257, total_tokens=3806, completion_time=1.239046802, prompt_time=0.069958289, queue_time=0.23390291, total_time=1.309005091) 
+ [] fields are invalid.
+02/09/2025 12:33:44 PM - mylogger - ERROR - Error:- Expecting ',' delimiter: line 1 column 733 (char 732) ocurred while extracting data from Payout14928-Nov-2024-756.pdf.
+02/09/2025 12:38:17 PM - mylogger - INFO - Data Extracted from Payout14928-Nov-2024-756.pdf. Time and Token CompletionUsage(completion_tokens=592, prompt_tokens=3257, total_tokens=3849, completion_time=1.294964166, prompt_time=0.247132122, queue_time=0.739273425, total_time=1.542096288) 
+ [] fields are invalid.
+02/09/2025 02:07:05 PM - mylogger - INFO - Data Extracted from Payout14818-Nov-2024-607.pdf. Time and Token CompletionUsage(completion_tokens=579, prompt_tokens=3257, total_tokens=3836, completion_time=1.37513972, prompt_time=0.100641671, queue_time=1.046375197, total_time=1.475781391) 
+ [] fields are invalid.
+02/09/2025 02:07:22 PM - mylogger - INFO - Data Extracted from Payout8998-Jan-2024-130.pdf. Time and Token CompletionUsage(completion_tokens=551, prompt_tokens=3257, total_tokens=3808, completion_time=1.241518326, prompt_time=0.068353645, queue_time=0.203650425, total_time=1.309871971) 
+ [] fields are invalid.
+02/09/2025 02:07:34 PM - mylogger - INFO - Data Extracted from Payout15033-Nov-2024-3105.pdf. Time and Token CompletionUsage(completion_tokens=532, prompt_tokens=3257, total_tokens=3789, completion_time=1.305972073, prompt_time=0.094404197, queue_time=0.207726672, total_time=1.40037627) 
+ ['account_no', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:08:04 PM - mylogger - INFO - ['account_no', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2626, total_tokens=2645, completion_time=0.068878199, prompt_time=0.079435321, queue_time=1.6232105049999999, total_time=0.14831352)
+02/09/2025 02:14:25 PM - mylogger - INFO - Data Extracted from Payout15033-Nov-2024-3105.pdf. Time and Token CompletionUsage(completion_tokens=467, prompt_tokens=3277, total_tokens=3744, completion_time=1.402050017, prompt_time=0.066237461, queue_time=0.402221777, total_time=1.468287478) 
+ ['account_no', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:14:26 PM - mylogger - INFO - ['account_no', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2626, total_tokens=2645, completion_time=0.070403451, prompt_time=0.062971522, queue_time=0.413929006, total_time=0.133374973)
+02/09/2025 02:16:02 PM - mylogger - INFO - Data Extracted from Payout15033-Nov-2024-3105.pdf. Time and Token CompletionUsage(completion_tokens=519, prompt_tokens=3263, total_tokens=3782, completion_time=1.3194134260000001, prompt_time=0.079904137, queue_time=0.210490812, total_time=1.3993175629999999) 
+ ['account_no', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:16:03 PM - mylogger - INFO - ['account_no', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2626, total_tokens=2645, completion_time=0.077771914, prompt_time=0.055821482, queue_time=0.223647098, total_time=0.133593396)
+02/09/2025 02:16:39 PM - mylogger - INFO - Data Extracted from Payout15033-Nov-2024-3105.pdf. Time and Token CompletionUsage(completion_tokens=489, prompt_tokens=3264, total_tokens=3753, completion_time=1.172672688, prompt_time=0.081457246, queue_time=1.463894859, total_time=1.254129934) 
+ ['account_no', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:16:49 PM - mylogger - INFO - ['account_no', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2626, total_tokens=2645, completion_time=0.085419645, prompt_time=0.066627758, queue_time=0.910087508, total_time=0.152047403)
+02/09/2025 02:18:30 PM - mylogger - INFO - Data Extracted from Payout15033-Nov-2024-3105.pdf. Time and Token CompletionUsage(completion_tokens=513, prompt_tokens=3264, total_tokens=3777, completion_time=1.147911255, prompt_time=0.075588052, queue_time=0.211921162, total_time=1.223499307) 
+ ['bank_ifsc'] fields are invalid.
+02/09/2025 02:18:31 PM - mylogger - INFO - ['bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=8, prompt_tokens=2644, total_tokens=2652, completion_time=0.047951785, prompt_time=0.060219046, queue_time=0.209673873, total_time=0.108170831)
+02/09/2025 02:18:48 PM - mylogger - INFO - Data Extracted from Payout15027-Nov-2024-3097.pdf. Time and Token CompletionUsage(completion_tokens=517, prompt_tokens=3409, total_tokens=3926, completion_time=1.1603757749999999, prompt_time=0.07175714, queue_time=0.210776989, total_time=1.232132915) 
+ [] fields are invalid.
+02/09/2025 02:19:25 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=469, prompt_tokens=3264, total_tokens=3733, completion_time=1.232477446, prompt_time=0.087183902, queue_time=1.325465277, total_time=1.319661348) 
+ ['total_invoice_value', 'dealer_code', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:19:55 PM - mylogger - INFO - ['total_invoice_value', 'dealer_code', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=43, prompt_tokens=2660, total_tokens=2703, completion_time=0.142986381, prompt_time=0.057687568, queue_time=0.211008161, total_time=0.200673949)
+02/09/2025 02:22:40 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=521, prompt_tokens=3264, total_tokens=3785, completion_time=1.215034368, prompt_time=0.077315589, queue_time=0.213715775, total_time=1.2923499569999999) 
+ ['dealer_code', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:22:41 PM - mylogger - INFO - ['dealer_code', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=32, prompt_tokens=2655, total_tokens=2687, completion_time=0.112556566, prompt_time=0.055283206, queue_time=0.259040113, total_time=0.167839772)
+02/09/2025 02:28:40 PM - mylogger - ERROR - Error:- Error code: 400 - {'error': {'message': 'invalid base64 url', 'type': 'invalid_request_error'}} ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 02:43:10 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=548, prompt_tokens=5586, total_tokens=6134, completion_time=1.23648438, prompt_time=0.167481445, queue_time=1.40593467, total_time=1.403965825) 
+ ['dealer_code', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 02:43:14 PM - mylogger - INFO - ['dealer_code', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=32, prompt_tokens=2655, total_tokens=2687, completion_time=0.11273977, prompt_time=0.054865174, queue_time=0.215109135, total_time=0.167604944)
+02/09/2025 02:46:12 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=575, prompt_tokens=5586, total_tokens=6161, completion_time=1.487895532, prompt_time=0.148318532, queue_time=0.352505747, total_time=1.636214064) 
+ [] fields are invalid.
+02/09/2025 02:48:22 PM - mylogger - INFO - Data Extracted from Payout14993-Nov-2024-3060.pdf. Time and Token CompletionUsage(completion_tokens=580, prompt_tokens=3264, total_tokens=3844, completion_time=1.276054625, prompt_time=0.082953146, queue_time=1.590088028, total_time=1.359007771) 
+ ['dealer_code'] fields are invalid.
+02/09/2025 02:48:25 PM - mylogger - INFO - ['dealer_code'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=11, prompt_tokens=2643, total_tokens=2654, completion_time=0.05356506, prompt_time=0.075277121, queue_time=2.463730204, total_time=0.128842181)
+02/09/2025 02:49:22 PM - mylogger - INFO - Data Extracted from Payout14993-Nov-2024-3060.pdf. Time and Token CompletionUsage(completion_tokens=580, prompt_tokens=3264, total_tokens=3844, completion_time=1.362105101, prompt_time=0.068119637, queue_time=0.209894963, total_time=1.430224738) 
+ [] fields are invalid.
+02/09/2025 03:13:44 PM - mylogger - ERROR - Error:- Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : Value is not nullable) OR ('messages.0.content' : Value is not nullable)])]", 'type': 'invalid_request_error'}} ocurred while extracting data from Payout14993-Nov-2024-3060.pdf.
+02/09/2025 03:15:53 PM - mylogger - ERROR - Error:- Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : Value is not nullable) OR ('messages.0.content' : Value is not nullable)])]", 'type': 'invalid_request_error'}} ocurred while extracting data from Payout14993-Nov-2024-3060.pdf.
+02/09/2025 03:19:02 PM - mylogger - ERROR - Error:- Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : Value is not nullable) OR ('messages.0.content' : Value is not nullable)])]", 'type': 'invalid_request_error'}} ocurred while extracting data from Payout14993-Nov-2024-3060.pdf.
+02/09/2025 03:19:51 PM - mylogger - ERROR - Error:- Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : Value is not nullable) OR ('messages.0.content' : Value is not nullable)])]", 'type': 'invalid_request_error'}} ocurred while extracting data from Payout14993-Nov-2024-3060.pdf.
+02/09/2025 03:20:24 PM - mylogger - INFO - Data Extracted from Payout14993-Nov-2024-3060.pdf. Time and Token CompletionUsage(completion_tokens=580, prompt_tokens=3264, total_tokens=3844, completion_time=1.307572903, prompt_time=0.233211619, queue_time=0.21170315, total_time=1.540784522) 
+ [] fields are invalid.
+02/09/2025 03:21:17 PM - mylogger - INFO - Data Extracted from Payout14973-Nov-2024-3022.pdf. Time and Token CompletionUsage(completion_tokens=570, prompt_tokens=3264, total_tokens=3834, completion_time=1.428957844, prompt_time=0.089283448, queue_time=0.609034031, total_time=1.518241292) 
+ ['ack_no', 'hiib_misp_code'] fields are invalid.
+02/09/2025 03:21:17 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14973-Nov-2024-3022.pdf.
+02/09/2025 03:21:32 PM - mylogger - INFO - Data Extracted from Payout14941-Nov-2024-772.pdf. Time and Token CompletionUsage(completion_tokens=568, prompt_tokens=3264, total_tokens=3832, completion_time=1.5485830680000001, prompt_time=0.091463257, queue_time=0.206200552, total_time=1.6400463250000001) 
+ ['dealer_gstin'] fields are invalid.
+02/09/2025 03:21:32 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14941-Nov-2024-772.pdf.
+02/09/2025 03:21:46 PM - mylogger - INFO - Data Extracted from Payout14937-Nov-2024-766.pdf. Time and Token CompletionUsage(completion_tokens=591, prompt_tokens=3264, total_tokens=3855, completion_time=1.6604514259999998, prompt_time=0.081459274, queue_time=0.208658835, total_time=1.7419107) 
+ [] fields are invalid.
+02/09/2025 03:22:31 PM - mylogger - INFO - Data Extracted from Payout14887-Nov-2024-707.pdf. Time and Token CompletionUsage(completion_tokens=586, prompt_tokens=3409, total_tokens=3995, completion_time=1.365963558, prompt_time=0.093517429, queue_time=2.283279164, total_time=1.459480987) 
+ [] fields are invalid.
+02/09/2025 03:23:03 PM - mylogger - INFO - Data Extracted from Payout14851-Nov-2024-655.pdf. Time and Token CompletionUsage(completion_tokens=585, prompt_tokens=3264, total_tokens=3849, completion_time=1.288652407, prompt_time=0.122933792, queue_time=0.213438437, total_time=1.411586199) 
+ ['hiib_gstin'] fields are invalid.
+02/09/2025 03:23:03 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14851-Nov-2024-655.pdf.
+02/09/2025 03:23:43 PM - mylogger - INFO - Data Extracted from Payout14823-Nov-2024-617.pdf. Time and Token CompletionUsage(completion_tokens=570, prompt_tokens=3409, total_tokens=3979, completion_time=1.348082781, prompt_time=0.080672448, queue_time=1.835224856, total_time=1.428755229) 
+ [] fields are invalid.
+02/09/2025 03:24:25 PM - mylogger - INFO - Data Extracted from Payout14801-Nov-2024-580.pdf. Time and Token CompletionUsage(completion_tokens=572, prompt_tokens=3264, total_tokens=3836, completion_time=1.419518432, prompt_time=0.066418003, queue_time=0.220547326, total_time=1.485936435) 
+ ['ack_no'] fields are invalid.
+02/09/2025 03:24:25 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14801-Nov-2024-580.pdf.
+02/09/2025 03:25:01 PM - mylogger - INFO - Data Extracted from Payout14790-Nov-2024-562.pdf. Time and Token CompletionUsage(completion_tokens=531, prompt_tokens=3264, total_tokens=3795, completion_time=1.4772738269999999, prompt_time=0.076366258, queue_time=0.267950911, total_time=1.553640085) 
+ [] fields are invalid.
+02/09/2025 03:25:38 PM - mylogger - INFO - Data Extracted from Payout14787-Nov-2024-552.pdf. Time and Token CompletionUsage(completion_tokens=578, prompt_tokens=3264, total_tokens=3842, completion_time=1.4617840260000001, prompt_time=0.085148825, queue_time=0.219591794, total_time=1.546932851) 
+ ['irn'] fields are invalid.
+02/09/2025 03:25:38 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14787-Nov-2024-552.pdf.
+02/09/2025 03:26:18 PM - mylogger - INFO - Data Extracted from Payout14755-Nov-2024-504.pdf. Time and Token CompletionUsage(completion_tokens=558, prompt_tokens=3264, total_tokens=3822, completion_time=1.240399037, prompt_time=0.081759468, queue_time=1.5632283, total_time=1.322158505) 
+ [] fields are invalid.
+02/09/2025 03:26:54 PM - mylogger - INFO - Data Extracted from Payout14730-Nov-2024-461.pdf. Time and Token CompletionUsage(completion_tokens=574, prompt_tokens=3264, total_tokens=3838, completion_time=1.416909272, prompt_time=0.119045004, queue_time=0.215471785, total_time=1.535954276) 
+ [] fields are invalid.
+02/09/2025 03:27:49 PM - mylogger - INFO - Data Extracted from Payout14710-Nov-2024-426.pdf. Time and Token CompletionUsage(completion_tokens=549, prompt_tokens=3264, total_tokens=3813, completion_time=1.21280673, prompt_time=0.092097236, queue_time=1.7954417409999999, total_time=1.304903966) 
+ [] fields are invalid.
+02/09/2025 03:28:13 PM - mylogger - INFO - Data Extracted from Payout14699-Nov-2024-396.pdf. Time and Token CompletionUsage(completion_tokens=589, prompt_tokens=3264, total_tokens=3853, completion_time=1.366980271, prompt_time=0.086923983, queue_time=1.5829139840000002, total_time=1.453904254) 
+ [] fields are invalid.
+02/09/2025 03:28:49 PM - mylogger - INFO - Data Extracted from Payout14697-Nov-2024-393.pdf. Time and Token CompletionUsage(completion_tokens=565, prompt_tokens=3264, total_tokens=3829, completion_time=1.339239018, prompt_time=0.068842008, queue_time=0.216208651, total_time=1.408081026) 
+ [] fields are invalid.
+02/09/2025 03:29:29 PM - mylogger - INFO - Data Extracted from Payout14693-Nov-2024-387.pdf. Time and Token CompletionUsage(completion_tokens=555, prompt_tokens=3409, total_tokens=3964, completion_time=1.269228961, prompt_time=0.087910694, queue_time=1.6393170000000001, total_time=1.3571396550000001) 
+ ['dealer_gstin', 'dealer_pan'] fields are invalid.
+02/09/2025 03:29:29 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14693-Nov-2024-387.pdf.
+02/09/2025 03:30:08 PM - mylogger - INFO - Data Extracted from Payout14654-Nov-2024-325.pdf. Time and Token CompletionUsage(completion_tokens=530, prompt_tokens=3409, total_tokens=3939, completion_time=1.2970789329999999, prompt_time=0.094369903, queue_time=0.483496116, total_time=1.391448836) 
+ ['consigner_pincode'] fields are invalid.
+02/09/2025 03:30:08 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14654-Nov-2024-325.pdf.
+02/09/2025 03:36:36 PM - mylogger - INFO - Data Extracted from Payout14654-Nov-2024-325.pdf. Time and Token CompletionUsage(completion_tokens=533, prompt_tokens=3409, total_tokens=3942, completion_time=1.293842414, prompt_time=0.089931757, queue_time=1.208790721, total_time=1.383774171) 
+ ['consigner_pincode'] fields are invalid.
+02/09/2025 03:36:36 PM - mylogger - ERROR - Error:- verify_response() got an unexpected keyword argument 'final' ocurred while reExtracting Invalide data from Payout14654-Nov-2024-325.pdf.
+02/09/2025 03:37:50 PM - mylogger - INFO - Data Extracted from Payout14654-Nov-2024-325.pdf. Time and Token CompletionUsage(completion_tokens=526, prompt_tokens=3409, total_tokens=3935, completion_time=1.1879988639999999, prompt_time=0.106127125, queue_time=1.0992069230000001, total_time=1.2941259889999999) 
+ ['consigner_pincode'] fields are invalid.
+02/09/2025 03:37:51 PM - mylogger - ERROR - Error:- 'tuple' object has no attribute 'keys' ocurred while reExtracting Invalide data from Payout14654-Nov-2024-325.pdf.
+02/09/2025 03:41:30 PM - mylogger - INFO - Data Extracted from Payout14654-Nov-2024-325.pdf. Time and Token CompletionUsage(completion_tokens=578, prompt_tokens=3412, total_tokens=3990, completion_time=1.919373848, prompt_time=0.069607332, queue_time=0.210467067, total_time=1.9889811800000001) 
+ [] fields are invalid.
+02/09/2025 03:41:55 PM - mylogger - INFO - Data Extracted from Payout14646-Nov-2024-316.pdf. Time and Token CompletionUsage(completion_tokens=572, prompt_tokens=3267, total_tokens=3839, completion_time=1.565717307, prompt_time=0.073563733, queue_time=0.214593046, total_time=1.63928104) 
+ ['dealer_gstin'] fields are invalid.
+02/09/2025 03:41:57 PM - mylogger - ERROR - Error:- 'tuple' object has no attribute 'keys' ocurred while reExtracting Invalide data from Payout14646-Nov-2024-316.pdf.
+02/09/2025 03:42:27 PM - mylogger - INFO - Data Extracted from Payout14609-Nov-2024-250.pdf. Time and Token CompletionUsage(completion_tokens=501, prompt_tokens=3412, total_tokens=3913, completion_time=1.177322464, prompt_time=0.094360091, queue_time=2.211527175, total_time=1.271682555) 
+ ['hiib_gstin'] fields are invalid.
+02/09/2025 03:42:58 PM - mylogger - ERROR - Error:- 'tuple' object has no attribute 'keys' ocurred while reExtracting Invalide data from Payout14609-Nov-2024-250.pdf.
+02/09/2025 03:50:27 PM - mylogger - INFO - Data Extracted from Payout14609-Nov-2024-250.pdf. Time and Token CompletionUsage(completion_tokens=505, prompt_tokens=3412, total_tokens=3917, completion_time=1.219827069, prompt_time=0.075615708, queue_time=0.224698761, total_time=1.2954427769999999) 
+ [] fields are invalid.
+02/09/2025 03:52:34 PM - mylogger - INFO - Data Extracted from Payout14609-Nov-2024-250.pdf. Time and Token CompletionUsage(completion_tokens=505, prompt_tokens=3412, total_tokens=3917, completion_time=1.156891619, prompt_time=0.104382245, queue_time=0.227061234, total_time=1.261273864) 
+ ['hiib_gstin'] fields are invalid.
+02/09/2025 03:52:35 PM - mylogger - ERROR - Error:- type() takes 1 or 3 arguments ocurred while reExtracting Invalide data from Payout14609-Nov-2024-250.pdf.
+02/09/2025 03:53:13 PM - mylogger - INFO - Data Extracted from Payout14609-Nov-2024-250.pdf. Time and Token CompletionUsage(completion_tokens=501, prompt_tokens=3412, total_tokens=3913, completion_time=1.3122054140000001, prompt_time=0.069629262, queue_time=0.218406257, total_time=1.381834676) 
+ ['hiib_gstin'] fields are invalid.
+02/09/2025 03:53:25 PM - mylogger - ERROR - Error:- 'tuple' object has no attribute 'items' ocurred while reExtracting Invalide data from Payout14609-Nov-2024-250.pdf.
+02/09/2025 03:54:35 PM - mylogger - INFO - Data Extracted from Payout14609-Nov-2024-250.pdf. Time and Token CompletionUsage(completion_tokens=545, prompt_tokens=3412, total_tokens=3957, completion_time=1.282748214, prompt_time=0.095115443, queue_time=0.222024056, total_time=1.377863657) 
+ ['hiib_gstin'] fields are invalid.
+02/09/2025 03:54:36 PM - mylogger - INFO - ['hiib_gstin'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=19, prompt_tokens=2791, total_tokens=2810, completion_time=0.049771719, prompt_time=0.102787084, queue_time=0.225312415, total_time=0.152558803)
+02/09/2025 03:59:14 PM - mylogger - INFO - Data Extracted from Payout14601-Nov-2024-238.pdf. Time and Token CompletionUsage(completion_tokens=558, prompt_tokens=3267, total_tokens=3825, completion_time=1.205116193, prompt_time=0.067357065, queue_time=0.214920344, total_time=1.272473258) 
+ ['irn'] fields are invalid.
+02/09/2025 03:59:15 PM - mylogger - INFO - ['irn'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=44, prompt_tokens=2642, total_tokens=2686, completion_time=0.169536926, prompt_time=0.08006949, queue_time=0.219203229, total_time=0.249606416)
+02/09/2025 03:59:31 PM - mylogger - INFO - Data Extracted from Payout14599-Nov-2024-234.pdf. Time and Token CompletionUsage(completion_tokens=573, prompt_tokens=3267, total_tokens=3840, completion_time=1.403424416, prompt_time=0.112217996, queue_time=1.190545542, total_time=1.515642412) 
+ ['irn'] fields are invalid.
+02/09/2025 04:00:02 PM - mylogger - INFO - ['irn'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=42, prompt_tokens=2642, total_tokens=2684, completion_time=0.199893994, prompt_time=0.281943227, queue_time=0.236204742, total_time=0.481837221)
+02/09/2025 04:00:37 PM - mylogger - INFO - Data Extracted from Payout14567-Nov-2024-169.pdf. Time and Token CompletionUsage(completion_tokens=565, prompt_tokens=3267, total_tokens=3832, completion_time=1.361637024, prompt_time=0.079356318, queue_time=1.439857597, total_time=1.440993342) 
+ ['irn', 'bank_ifsc'] fields are invalid.
+02/09/2025 04:01:07 PM - mylogger - INFO - ['irn', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=56, prompt_tokens=2647, total_tokens=2703, completion_time=0.240751811, prompt_time=0.05797353, queue_time=0.228169439, total_time=0.298725341)
+02/09/2025 04:01:47 PM - mylogger - INFO - Data Extracted from Payout14556-Nov-2024-151.pdf. Time and Token CompletionUsage(completion_tokens=604, prompt_tokens=3267, total_tokens=3871, completion_time=1.417182652, prompt_time=0.06845754, queue_time=0.226346379, total_time=1.485640192) 
+ ['irn'] fields are invalid.
+02/09/2025 04:02:14 PM - mylogger - INFO - ['irn'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=50, prompt_tokens=2642, total_tokens=2692, completion_time=0.220590453, prompt_time=0.069173357, queue_time=1.63143546, total_time=0.28976381)
+02/09/2025 04:02:46 PM - mylogger - INFO - Data Extracted from Payout14555-Nov-2024-150.pdf. Time and Token CompletionUsage(completion_tokens=572, prompt_tokens=3267, total_tokens=3839, completion_time=1.357772496, prompt_time=0.086109892, queue_time=0.241213538, total_time=1.443882388) 
+ ['dealer_gstin'] fields are invalid.
+02/09/2025 04:03:18 PM - mylogger - INFO - ['dealer_gstin'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=16, prompt_tokens=2645, total_tokens=2661, completion_time=0.070217992, prompt_time=0.065158044, queue_time=0.240325996, total_time=0.135376036)
+02/09/2025 04:03:53 PM - mylogger - INFO - Data Extracted from Payout14531-Nov-2024-117.pdf. Time and Token CompletionUsage(completion_tokens=590, prompt_tokens=3267, total_tokens=3857, completion_time=1.339343896, prompt_time=0.091565712, queue_time=2.43948015, total_time=1.4309096079999999) 
+ ['irn', 'hiib_gstin', 'dealer_pan'] fields are invalid.
+02/09/2025 04:04:24 PM - mylogger - INFO - ['irn', 'hiib_gstin', 'dealer_pan'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=71, prompt_tokens=2654, total_tokens=2725, completion_time=0.335384204, prompt_time=0.089366921, queue_time=0.318422347, total_time=0.424751125)
+02/09/2025 04:06:34 PM - mylogger - INFO - Data Extracted from Payout14531-Nov-2024-117.pdf. Time and Token CompletionUsage(completion_tokens=554, prompt_tokens=3267, total_tokens=3821, completion_time=1.342743215, prompt_time=0.096871041, queue_time=2.207299016, total_time=1.439614256) 
+ ['irn', 'hiib_gstin', 'dealer_gstin', 'dealer_pan'] fields are invalid.
+02/09/2025 04:06:38 PM - mylogger - INFO - ['irn', 'hiib_gstin', 'dealer_gstin', 'dealer_pan'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=88, prompt_tokens=2660, total_tokens=2748, completion_time=0.290120747, prompt_time=0.080211469, queue_time=3.788272085, total_time=0.370332216)
+02/09/2025 04:20:09 PM - mylogger - INFO - Data Extracted from Payout14531-Nov-2024-117.pdf. Time and Token CompletionUsage(completion_tokens=600, prompt_tokens=3267, total_tokens=3867, completion_time=1.345416749, prompt_time=0.09474188, queue_time=2.438009681, total_time=1.440158629) 
+ [] fields are invalid.
+02/09/2025 04:20:43 PM - mylogger - INFO - Data Extracted from Payout14555-Nov-2024-150.pdf. Time and Token CompletionUsage(completion_tokens=565, prompt_tokens=3267, total_tokens=3832, completion_time=1.359336359, prompt_time=0.063408533, queue_time=0.238832507, total_time=1.4227448919999999) 
+ ['dealer_gstin'] fields are invalid.
+02/09/2025 04:20:44 PM - mylogger - INFO - ['dealer_gstin'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=16, prompt_tokens=2645, total_tokens=2661, completion_time=0.042705275, prompt_time=0.233994465, queue_time=0.270407434, total_time=0.27669974)
+02/09/2025 04:24:15 PM - mylogger - INFO - Data Extracted from Payout14555-Nov-2024-150.pdf. Time and Token CompletionUsage(completion_tokens=579, prompt_tokens=3267, total_tokens=3846, completion_time=1.352540437, prompt_time=0.066664396, queue_time=0.277155341, total_time=1.419204833) 
+ [] fields are invalid.
+02/09/2025 04:24:31 PM - mylogger - INFO - Data Extracted from Payout14556-Nov-2024-151.pdf. Time and Token CompletionUsage(completion_tokens=572, prompt_tokens=3267, total_tokens=3839, completion_time=1.39751016, prompt_time=0.066820506, queue_time=0.217340374, total_time=1.464330666) 
+ ['irn'] fields are invalid.
+02/09/2025 04:24:36 PM - mylogger - INFO - ['irn'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=50, prompt_tokens=2642, total_tokens=2692, completion_time=0.189831766, prompt_time=0.369157625, queue_time=0.694708243, total_time=0.558989391)
+02/09/2025 04:26:22 PM - mylogger - INFO - Data Extracted from Payout14567-Nov-2024-169.pdf. Time and Token CompletionUsage(completion_tokens=571, prompt_tokens=3267, total_tokens=3838, completion_time=1.239614698, prompt_time=0.093186158, queue_time=0.223888062, total_time=1.332800856) 
+ ['bank_ifsc'] fields are invalid.
+02/09/2025 04:26:23 PM - mylogger - INFO - ['bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=14, prompt_tokens=2644, total_tokens=2658, completion_time=0.103891833, prompt_time=0.062861613, queue_time=0.367665377, total_time=0.166753446)
+02/09/2025 04:27:35 PM - mylogger - INFO - Data Extracted from Payout14601-Nov-2024-238.pdf. Time and Token CompletionUsage(completion_tokens=571, prompt_tokens=3267, total_tokens=3838, completion_time=1.2243678980000001, prompt_time=0.096236628, queue_time=2.372142091, total_time=1.320604526) 
+ [] fields are invalid.
+02/09/2025 04:27:50 PM - mylogger - INFO - Data Extracted from Payout14609-Nov-2024-250.pdf. Time and Token CompletionUsage(completion_tokens=545, prompt_tokens=3412, total_tokens=3957, completion_time=1.310835409, prompt_time=0.086372703, queue_time=1.215040586, total_time=1.397208112) 
+ [] fields are invalid.
+02/09/2025 04:28:08 PM - mylogger - INFO - Data Extracted from Payout14093-Oct-2024-325.pdf. Time and Token CompletionUsage(completion_tokens=568, prompt_tokens=3412, total_tokens=3980, completion_time=1.273051188, prompt_time=0.073621914, queue_time=0.247711773, total_time=1.346673102) 
+ [] fields are invalid.
+02/09/2025 04:28:46 PM - mylogger - INFO - Data Extracted from Payout14693-Nov-2024-387.pdf. Time and Token CompletionUsage(completion_tokens=554, prompt_tokens=3412, total_tokens=3966, completion_time=1.4359135969999999, prompt_time=0.084495269, queue_time=2.083753468, total_time=1.520408866) 
+ [] fields are invalid.
+02/09/2025 04:29:24 PM - mylogger - INFO - Data Extracted from Payout14697-Nov-2024-393.pdf. Time and Token CompletionUsage(completion_tokens=567, prompt_tokens=3267, total_tokens=3834, completion_time=1.468520742, prompt_time=0.21053634, queue_time=0.256164956, total_time=1.679057082) 
+ [] fields are invalid.
+02/09/2025 04:31:07 PM - mylogger - INFO - Data Extracted from Payout14699-Nov-2024-396.pdf. Time and Token CompletionUsage(completion_tokens=537, prompt_tokens=3267, total_tokens=3804, completion_time=1.335768881, prompt_time=0.117632592, queue_time=4.308179021, total_time=1.453401473) 
+ [] fields are invalid.
+02/09/2025 04:31:37 PM - mylogger - INFO - Data Extracted from Payout14710-Nov-2024-426.pdf. Time and Token CompletionUsage(completion_tokens=546, prompt_tokens=3267, total_tokens=3813, completion_time=1.3410792919999999, prompt_time=0.087753387, queue_time=1.544442128, total_time=1.428832679) 
+ [] fields are invalid.
+02/09/2025 04:31:53 PM - mylogger - INFO - Data Extracted from Payout14730-Nov-2024-461.pdf. Time and Token CompletionUsage(completion_tokens=531, prompt_tokens=3267, total_tokens=3798, completion_time=1.197330233, prompt_time=0.070630385, queue_time=0.223103923, total_time=1.267960618) 
+ [] fields are invalid.
+02/09/2025 04:33:02 PM - mylogger - INFO - Data Extracted from Payout14755-Nov-2024-504.pdf. Time and Token CompletionUsage(completion_tokens=565, prompt_tokens=3267, total_tokens=3832, completion_time=1.280720866, prompt_time=0.089516373, queue_time=1.645913781, total_time=1.370237239) 
+ [] fields are invalid.
+02/09/2025 04:33:30 PM - mylogger - INFO - Data Extracted from Payout14787-Nov-2024-552.pdf. Time and Token CompletionUsage(completion_tokens=564, prompt_tokens=3267, total_tokens=3831, completion_time=1.269997174, prompt_time=0.090001789, queue_time=1.588705799, total_time=1.359998963) 
+ [] fields are invalid.
+02/09/2025 04:34:00 PM - mylogger - ERROR - Error:- Expecting ',' delimiter: line 1 column 744 (char 743) ocurred while extracting data from Payout14790-Nov-2024-562.pdf.
+02/09/2025 04:35:58 PM - mylogger - INFO - Data Extracted from Payout14790-Nov-2024-562.pdf. Time and Token CompletionUsage(completion_tokens=577, prompt_tokens=3267, total_tokens=3844, completion_time=1.455914634, prompt_time=0.065566378, queue_time=1.652369317, total_time=1.521481012) 
+ [] fields are invalid.
+02/09/2025 04:37:13 PM - mylogger - INFO - Data Extracted from Payout14801-Nov-2024-580.pdf. Time and Token CompletionUsage(completion_tokens=565, prompt_tokens=3267, total_tokens=3832, completion_time=1.352085386, prompt_time=0.082976473, queue_time=2.03256745, total_time=1.435061859) 
+ ['ack_no'] fields are invalid.
+02/09/2025 04:37:16 PM - mylogger - INFO - ['ack_no'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=12, prompt_tokens=2643, total_tokens=2655, completion_time=0.064082559, prompt_time=0.078243657, queue_time=2.7033585479999998, total_time=0.142326216)
+02/09/2025 04:37:49 PM - mylogger - INFO - Data Extracted from Payout14823-Nov-2024-617.pdf. Time and Token CompletionUsage(completion_tokens=565, prompt_tokens=3412, total_tokens=3977, completion_time=1.258542141, prompt_time=0.10183032, queue_time=0.209994939, total_time=1.3603724609999999) 
+ [] fields are invalid.
+02/09/2025 04:43:02 PM - mylogger - INFO - Data Extracted from Payout14937-Nov-2024-766.pdf. Time and Token CompletionUsage(completion_tokens=549, prompt_tokens=3267, total_tokens=3816, completion_time=1.23942083, prompt_time=0.072864297, queue_time=1.409956178, total_time=1.312285127) 
+ ['consigner_pincode'] fields are invalid.
+02/09/2025 04:43:05 PM - mylogger - INFO - ['consigner_pincode'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=11, prompt_tokens=2645, total_tokens=2656, completion_time=0.046987804, prompt_time=0.078516372, queue_time=2.41225699, total_time=0.125504176)
+02/09/2025 04:47:02 PM - mylogger - INFO - Data Extracted from Payout14941-Nov-2024-772.pdf. Time and Token CompletionUsage(completion_tokens=515, prompt_tokens=3267, total_tokens=3782, completion_time=1.511113034, prompt_time=0.070352965, queue_time=0.203932234, total_time=1.581465999) 
+ ['dealer_gstin'] fields are invalid.
+02/09/2025 04:47:03 PM - mylogger - INFO - ['dealer_gstin'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=17, prompt_tokens=2645, total_tokens=2662, completion_time=0.071867999, prompt_time=0.069516268, queue_time=0.206602291, total_time=0.141384267)
+02/09/2025 04:48:04 PM - mylogger - INFO - Data Extracted from Payout14993-Nov-2024-3060.pdf. Time and Token CompletionUsage(completion_tokens=580, prompt_tokens=3267, total_tokens=3847, completion_time=1.6364629769999999, prompt_time=0.152300818, queue_time=0.232199921, total_time=1.788763795) 
+ [] fields are invalid.
+02/09/2025 04:48:18 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=472, prompt_tokens=3267, total_tokens=3739, completion_time=1.054377608, prompt_time=0.066203337, queue_time=1.693209186, total_time=1.120580945) 
+ ['hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 04:48:28 PM - mylogger - INFO - ['hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=17, prompt_tokens=2651, total_tokens=2668, completion_time=0.05432322, prompt_time=0.071955762, queue_time=1.528572863, total_time=0.126278982)
+02/09/2025 04:51:53 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=514, prompt_tokens=3267, total_tokens=3781, completion_time=1.352907994, prompt_time=0.073055019, queue_time=0.22792934, total_time=1.425963013) 
+ ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 04:51:53 PM - mylogger - INFO - ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=31, prompt_tokens=2656, total_tokens=2687, completion_time=0.090268623, prompt_time=0.064735351, queue_time=0.212886279, total_time=0.155003974)
+02/09/2025 04:53:26 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=526, prompt_tokens=3267, total_tokens=3793, completion_time=1.278434131, prompt_time=0.083735419, queue_time=1.500628829, total_time=1.36216955) 
+ ['hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 04:53:27 PM - mylogger - INFO - ['hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=17, prompt_tokens=2651, total_tokens=2668, completion_time=0.06592468, prompt_time=0.071009625, queue_time=1.275897523, total_time=0.136934305)
+02/09/2025 04:55:28 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=520, prompt_tokens=3267, total_tokens=3787, completion_time=1.379900169, prompt_time=0.076072977, queue_time=0.213720913, total_time=1.455973146) 
+ ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 04:55:29 PM - mylogger - INFO - ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=28, prompt_tokens=2656, total_tokens=2684, completion_time=0.113976267, prompt_time=0.055149223, queue_time=0.215808366, total_time=0.16912549)
+02/09/2025 05:02:52 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=517, prompt_tokens=3267, total_tokens=3784, completion_time=1.146375749, prompt_time=0.081116906, queue_time=1.292724362, total_time=1.227492655) 
+ ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:02:54 PM - mylogger - INFO - ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=31, prompt_tokens=2656, total_tokens=2687, completion_time=0.097016003, prompt_time=0.075478686, queue_time=1.426342103, total_time=0.172494689)
+02/09/2025 05:05:53 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=514, prompt_tokens=3267, total_tokens=3781, completion_time=1.05600665, prompt_time=0.081157663, queue_time=1.045610333, total_time=1.137164313) 
+ ['hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:05:54 PM - mylogger - INFO - ['hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=17, prompt_tokens=2651, total_tokens=2668, completion_time=0.059747577, prompt_time=0.071787329, queue_time=1.03511597, total_time=0.131534906)
+02/09/2025 05:08:59 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=521, prompt_tokens=3267, total_tokens=3788, completion_time=1.17197273, prompt_time=0.067088225, queue_time=0.236232434, total_time=1.239060955) 
+ ['hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:09:00 PM - mylogger - INFO - ['hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=26, prompt_tokens=2651, total_tokens=2677, completion_time=0.061528995, prompt_time=0.100718215, queue_time=0.249431545, total_time=0.16224721)
+02/09/2025 05:13:48 PM - mylogger - ERROR - Error:- name 'image' is not defined ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:14:57 PM - mylogger - ERROR - Error:- name 'image' is not defined ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:20:25 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=468, prompt_tokens=3267, total_tokens=3735, completion_time=1.152246811, prompt_time=0.099491286, queue_time=0.226919333, total_time=1.251738097) 
+ ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:20:25 PM - mylogger - ERROR - Error:- Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}} ocurred while reExtracting Invalide data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:24:50 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=509, prompt_tokens=3267, total_tokens=3776, completion_time=1.35785788, prompt_time=0.073923425, queue_time=0.214670275, total_time=1.431781305) 
+ ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:24:51 PM - mylogger - INFO - ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=27, prompt_tokens=2656, total_tokens=2683, completion_time=0.086734743, prompt_time=0.055006061, queue_time=0.233452058, total_time=0.141740804)
+02/09/2025 05:26:35 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=525, prompt_tokens=3267, total_tokens=3792, completion_time=1.0991199680000001, prompt_time=0.081718266, queue_time=0.231942264, total_time=1.1808382339999999) 
+ ['hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:26:36 PM - mylogger - INFO - ['hiib_misp_code', 'bank_ifsc'] are Extracted from image as it was invalid in first attempt. Time and Token used CompletionUsage(completion_tokens=17, prompt_tokens=2651, total_tokens=2668, completion_time=0.056163947, prompt_time=0.068848153, queue_time=0.226953127, total_time=0.1250121)
+02/09/2025 05:27:32 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=572, prompt_tokens=5589, total_tokens=6161, completion_time=1.415527654, prompt_time=0.129386429, queue_time=0.363021241, total_time=1.544914083) 
+ [] fields are invalid.
+02/09/2025 05:28:49 PM - mylogger - ERROR - Error:- local variable 'i' referenced before assignment ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:29:20 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=532, prompt_tokens=5589, total_tokens=6121, completion_time=1.372137762, prompt_time=0.141205714, queue_time=0.426826205, total_time=1.513343476) 
+ [] fields are invalid.
+02/09/2025 05:30:38 PM - mylogger - ERROR - Error:- name 'content' is not defined ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:36:36 PM - mylogger - ERROR - Error:- name 'content' is not defined ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:37:01 PM - mylogger - ERROR - Error:- encode_image() missing 1 required positional argument: 'prompt' ocurred while extracting data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:37:25 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=470, prompt_tokens=3267, total_tokens=3737, completion_time=1.113660347, prompt_time=0.104566293, queue_time=0.205661566, total_time=1.21822664) 
+ ['total_invoice_value', 'hiib_misp_code', 'bank_ifsc'] fields are invalid.
+02/09/2025 05:37:25 PM - mylogger - ERROR - Error:- Expecting value: line 1 column 1 (char 0) ocurred while reExtracting Invalide data from Payout15018-Nov-2024-3087.pdf.
+02/09/2025 05:37:56 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=531, prompt_tokens=5589, total_tokens=6120, completion_time=1.28197831, prompt_time=0.113852354, queue_time=0.362660045, total_time=1.395830664) 
+ [] fields are invalid.
+02/09/2025 05:40:16 PM - mylogger - INFO - Data Extracted from Payout15027-Nov-2024-3097.pdf. Time and Token CompletionUsage(completion_tokens=520, prompt_tokens=3412, total_tokens=3932, completion_time=1.249014282, prompt_time=0.073192659, queue_time=0.21709903, total_time=1.3222069410000001) 
+ [] fields are invalid.
+02/09/2025 05:40:34 PM - mylogger - INFO - Data Extracted from Payout14851-Nov-2024-655.pdf. Time and Token CompletionUsage(completion_tokens=545, prompt_tokens=3267, total_tokens=3812, completion_time=1.386781266, prompt_time=0.075754099, queue_time=0.22353196, total_time=1.462535365) 
+ [] fields are invalid.
+02/09/2025 05:40:53 PM - mylogger - INFO - Data Extracted from Payout14887-Nov-2024-707.pdf. Time and Token CompletionUsage(completion_tokens=583, prompt_tokens=3412, total_tokens=3995, completion_time=1.232110653, prompt_time=0.068064095, queue_time=0.665000453, total_time=1.3001747479999999) 
+ [] fields are invalid.
+02/09/2025 05:41:24 PM - mylogger - ERROR - Error:- Expecting ',' delimiter: line 1 column 684 (char 683) ocurred while extracting data from Payout14531-Nov-2024-117.pdf.
+02/09/2025 05:42:28 PM - mylogger - INFO - Data Extracted from Payout14531-Nov-2024-117.pdf. Time and Token CompletionUsage(completion_tokens=589, prompt_tokens=3267, total_tokens=3856, completion_time=1.493365509, prompt_time=0.105264246, queue_time=3.506808318, total_time=1.5986297550000002) 
+ [] fields are invalid.
+02/09/2025 05:56:44 PM - mylogger - ERROR - Error:- Unable to get page count.
+I/O Error: Couldn't open file 'Payout/UV Cheat Sheet.pdf': No such file or directory.
+ ocurred while extracting data from UV Cheat Sheet.pdf.
+02/09/2025 05:57:27 PM - mylogger - INFO - Data Extracted from UV Cheat Sheet.pdf. Time and Token CompletionUsage(completion_tokens=14, prompt_tokens=8401, total_tokens=8415, completion_time=0.094622057, prompt_time=0.224229008, queue_time=0.60367435, total_time=0.318851065) 
+ [] fields are invalid.
+02/09/2025 05:57:41 PM - mylogger - INFO - Data Extracted from Payout14567-Nov-2024-169.pdf. Time and Token CompletionUsage(completion_tokens=528, prompt_tokens=3322, total_tokens=3850, completion_time=1.268582974, prompt_time=0.598949997, queue_time=1.282766596, total_time=1.8675329710000002) 
+ [] fields are invalid.
+02/09/2025 05:58:19 PM - mylogger - INFO - Data Extracted from Payout15018-Nov-2024-3087.pdf. Time and Token CompletionUsage(completion_tokens=560, prompt_tokens=5644, total_tokens=6204, completion_time=1.29773746, prompt_time=0.167696727, queue_time=1.857761946, total_time=1.465434187) 
+ [] fields are invalid.
+02/09/2025 05:58:36 PM - mylogger - INFO - Data Extracted from Payout14599-Nov-2024-234.pdf. Time and Token CompletionUsage(completion_tokens=527, prompt_tokens=3322, total_tokens=3849, completion_time=1.269818247, prompt_time=0.086464853, queue_time=1.404331272, total_time=1.3562831) 
+ ['irn'] fields are invalid.
+02/09/2025 05:59:01 PM - mylogger - ERROR - Error:- Expecting value: line 1 column 1 (char 0) ocurred while reExtracting Invalide data from Payout14599-Nov-2024-234.pdf.
